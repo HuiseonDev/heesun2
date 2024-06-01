@@ -1,8 +1,4 @@
-![gitprofile](https://github.com/heesun2/heesun2/assets/92114270/65a31dfb-b183-469d-8059-0e036ba4bdde)
-<div align="center">
 
-<p>다른 시선으로 보다,<br>보다, 더 나은 개발자 전희선입니다</p>
-</div>
 <!--
 **heesun2/heesun2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
