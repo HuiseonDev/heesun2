@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-<p>다른 시선으로 보다,
+<h3>
+  다른 시선으로 보다,
 <br>
   보다, 더 나은 개발자 전희선입니다
-</p>
+</h3>
 </div>
 
 <br><br><br><br>
