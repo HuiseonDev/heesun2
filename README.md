@@ -1,4 +1,4 @@
-![profile](https://github.com/heesun2/heesun2/assets/92114270/9c086882-f62e-4ac4-9abb-df04c919af51)
+![profile02](https://github.com/heesun2/heesun2/assets/92114270/241f824e-f1c7-4adc-9e6c-6a502474a2dd)
 <!--
 **heesun2/heesun2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p>다른 시선으로 보다,
+<br>
+  보다, 더 나은 개발자 전희선입니다
+</p>
 <br><br><br><br>
 <h4 align="center">✨ Tech Stack ✨</h4>
 <div align="center">
