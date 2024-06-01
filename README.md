@@ -13,10 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
 <p>다른 시선으로 보다,
 <br>
   보다, 더 나은 개발자 전희선입니다
 </p>
+</div>
+
 <br><br><br><br>
 <h4 align="center">✨ Tech Stack ✨</h4>
 <div align="center">
