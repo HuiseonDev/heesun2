@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<br>
 <div align="center">
 <h3>
-  다른 시선으로 보다,
+  다른 시선으로 보다.
 <br>
   보다, 더 나은 개발자 전희선입니다
 </h3>
@@ -63,6 +63,7 @@ Here are some ideas to get you started:
 <a href="https://adaptive-substance-ad8.notion.site/9e6e3078a7c04e89ba03390dff0ac7b8?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 <a href="mailto:designh2sun@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div>
+<br><br>
 
 <br><br>
 
