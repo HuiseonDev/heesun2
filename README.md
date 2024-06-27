@@ -1,26 +1,3 @@
-![profile02](https://github.com/heesun2/heesun2/assets/92114270/241f824e-f1c7-4adc-9e6c-6a502474a2dd)
-<!--
-**heesun2/heesun2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<br>
-<div align="center">
-<h3>
-  다른 시선으로 보다.
-<br>
-  보다, 더 나은 개발자 전희선입니다
-</h3>
-</div>
 
 <br><br><br><br>
 <h4 align="center">✨ Tech Stack ✨</h4>
