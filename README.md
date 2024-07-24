@@ -38,7 +38,8 @@
 <br>
 
 
-<h4 align="center">📚 Studying 📚</h4>
+
+<h4 align="center">📚 Study 📚</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
